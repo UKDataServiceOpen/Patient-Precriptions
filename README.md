@@ -1,5 +1,6 @@
 # Patient-Precriptions
-Contains R code to create a shiny app, showing the locations of GP practices and the numbers of patients
+Contains R code to create a shiny app, showing the locations of GP practices and the numbers of patients, created as part of 
+a UK Data Service Data Dive held on 9th November 2016.
 
 We also did work where we worked out the % of patients per local authority who were prescribed meds for Allergies, Asthma and Diabetes.
 We visualised this data as 3d maps, but concentrated on the Northwest.
